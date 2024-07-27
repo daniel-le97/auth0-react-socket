@@ -28,3 +28,7 @@ run the app
 ssc build -r
 ```
 
+## how it works
+ please check ./src/lib/onApplicationURLEvent.ts and both pages in ./src/pages
+
+ to learn how to implement this yourself
